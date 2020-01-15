@@ -31,7 +31,7 @@
   
   <build> 
 	  
-    <finalName>webapp</finalName>
+    <finalName>Formac</finalName>
 	  
   <pluginManagement>
   <plugins>
